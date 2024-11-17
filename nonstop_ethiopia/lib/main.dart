@@ -1,7 +1,6 @@
-// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:nonstop_ethiopia/Provider/counter_provider.dart';
-import 'package:nonstop_ethiopia/appRouter.dart';
+import 'package:nonstop_ethiopia/core/appRouter.dart';
 // import 'package:nonstop_ethiopia/signInPage.dart';
 import 'package:provider/provider.dart';
 
