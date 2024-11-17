@@ -3,7 +3,7 @@ name: Flutter Test
 on:
   push:
     branches:
-      - main
+      - provider-state-management
   pull_request:
     branches:
       - main
