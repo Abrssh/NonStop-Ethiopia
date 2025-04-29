@@ -6,7 +6,7 @@ class SecondHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("Second Page"),
+      child: Text("Second Page 2"),
     );
   }
 }
