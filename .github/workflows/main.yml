@@ -2,8 +2,8 @@ name: Flutter Test
 
 on:
   push:
-    branches:
-      - main
+    branches: 
+      [ "master" ]
   # pull_request:
   #   branches:
   #     - main
