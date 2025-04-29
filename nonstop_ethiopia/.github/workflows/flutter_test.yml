@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - provider-state-management
+      - main
   pull_request:
     branches:
       - main
