@@ -5,6 +5,7 @@ on:
     branches:
       - provider-state-management
       - main
+  workflow_dispatch:
   pull_request:
     branches:
       - main
